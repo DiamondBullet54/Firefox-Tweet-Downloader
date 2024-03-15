@@ -1,5 +1,5 @@
 # Firefox-Tweet-Downloader
- An addon for firefox that lets you download tweets at their native resolutions.
+ An addon for firefox that lets you download image tweets at their native resolutions.
 
 # Addon Use
 This addon will create a download button on your Right-Click menu <br />
